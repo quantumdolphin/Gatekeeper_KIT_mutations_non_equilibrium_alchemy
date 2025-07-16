@@ -207,6 +207,6 @@ These calculations allow us to quantify how mutations at the gatekeeper residue 
 3. **Lee, T.‑S., et al. (2017).** *Toward Fast and Accurate Binding Affinity Prediction with pmemdGTI: An Efficient Implementation of GPU-Accelerated Thermodynamic Integration*. *Journal of Chemical Theory and Computation, 13*(7), 3077–3084.  
    🔗 https://doi.org/10.1021/acs.jctc.7b00102
 
-4. **Michel, J., Verdonk, M. L., & Essex, J. W. (2007).** *Protein–Ligand Complexes: Computation of the Relative Free Energy of Different Scaffolds and Binding Modes*. *Journal of Chemical Theory and Computation, 3*(­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­?), 0*–?*  
+4. **Michel, J., Verdonk, M. L., & Essex, J. W. (2007).** *Protein–Ligand Complexes: Computation of the Relative Free Energy of Different Scaffolds and Binding Modes.*  
+   *Journal of Chemical Theory and Computation, 3*(5), 1645–1655.  
    🔗 https://doi.org/10.1021/ct700081t
-
