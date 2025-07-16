@@ -142,6 +142,8 @@ Both ligands were docked into homology models of KIT kinase carrying these mutat
 | D816V/T670V     | 360          | 7             |
 | D816V/T670I     | 270          | 180           |
 
+These trends demonstrate how subtle shifts in hydrophobicity and sterics at the gatekeeper site can dramatically reprogram ligand preference — even flipping drug resistance. Avapritinib, which prefers a clean, deep hydrophobic back pocket, becomes increasingly penalized. Midostaurin, which binds more flexibly, benefits up to a point — until the gate is too narrow.
+
 ---
 
 ## 5. Experimental & Computational ΔG Calculations
