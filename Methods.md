@@ -123,22 +123,29 @@ Both ligands were docked into homology models of KIT kinase carrying these mutat
 
 ### 5.1 ΔG from IC₅₀
 
-- Equation:  
-  \[
-  ΔG = RT \cdot \ln(IC₅₀)
-  \]
-  where R = 0.001987 kcal/mol·K, T = 298.15 K
+To estimate the binding free energy from IC₅₀ values, we use the standard thermodynamic relationship:
+
+Where:
+- `R = 0.001987 kcal/mol·K`
+- `T = 298.15 K`
+
+This equation approximates the standard Gibbs free energy of binding based on the inhibitory concentration at 50% activity (IC₅₀).
+
+---
 
 ### 5.2 ΔΔG and ΔΔΔG Definitions
 
-- ΔΔG: Mutation effect on binding affinity
-  \[
-  ΔΔG = ΔG_{mutant} - ΔG_{WT}
-  \]
-- ΔΔΔG: Ligand preference shift due to mutation
-  \[
-  ΔΔΔG = ΔG_{MID} - ΔG_{AVA}
-  \]
+**ΔΔG**: Mutation effect on binding affinity  
+
+
+**ΔΔΔG**: Ligand preference shift due to mutation  
+
+
+- A **negative ΔΔG** indicates the mutation improves binding affinity.
+- A **negative ΔΔΔG** means the mutant prefers binding AVA over MID (i.e., AVA is favored).
+
+These calculations allow us to quantify how mutations at the gatekeeper residue alter the relative binding of kinase inhibitors.
+
 
 ### 5.3 Summary Table
 
