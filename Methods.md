@@ -124,6 +124,7 @@ Both ligands were docked into homology models of KIT kinase carrying these mutat
 ### 5.1 ΔG from IC₅₀
 
 To estimate the binding free energy from IC₅₀ values, we use the standard thermodynamic relationship:
+- **ΔG = RT · ln(IC₅₀)**
 
 Where:
 - `R = 0.001987 kcal/mol·K`
