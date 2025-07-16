@@ -196,4 +196,17 @@ These calculations allow us to quantify how mutations at the gatekeeper residue 
 9. Darden T, York D, Pedersen L. Particle mesh Ewald: An N·log(N) method for Ewald sums in large systems. *J. Chem. Phys.* **98**, 10089–10092 (1993).  
    https://doi.org/10.1063/1.464397
 
+### Recommended Papers For Further Reading
+
+1. **Lee, H.-C., et al. (2014).** *Using thermodynamic integration MD simulation to compute relative protein–ligand binding free energy of a GSK3β kinase inhibitor and its analogs*. *Journal of Molecular Graphics & Modelling, 51*, 37–49.  
+   🔗 https://doi.org/10.1016/j.jmgm.2014.04.010
+
+2. **Bhati, A. P., et al. (2017).** *Rapid, accurate, precise, and reliable relative free energy prediction using ensemble based thermodynamic integration (TIES)*. *Journal of Chemical Theory and Computation, 13*, 210–222.  
+   🔗 https://doi.org/10.1021/acs.jctc.6b00979
+
+3. **Lee, T.‑S., et al. (2017).** *Toward Fast and Accurate Binding Affinity Prediction with pmemdGTI: An Efficient Implementation of GPU-Accelerated Thermodynamic Integration*. *Journal of Chemical Theory and Computation, 13*(7), 3077–3084.  
+   🔗 https://doi.org/10.1021/acs.jctc.7b00102
+
+4. **Michel, J., Verdonk, M. L., & Essex, J. W. (2007).** *Protein–Ligand Complexes: Computation of the Relative Free Energy of Different Scaffolds and Binding Modes*. *Journal of Chemical Theory and Computation, 3*(­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­?), 0*–?*  
+   🔗 https://doi.org/10.1021/ct700081t
 
