@@ -137,11 +137,11 @@ This equation approximates the standard Gibbs free energy of binding based on th
 ### 5.2 ΔΔG and ΔΔΔG Definitions
 
 **ΔΔG**: Mutation effect on binding affinity  
-
+- **ΔΔG = ΔG_mutant − ΔG_WT**
 
 **ΔΔΔG**: Ligand preference shift due to mutation  
 
-
+- **ΔΔΔG = ΔG_MID − ΔG_AVA**
 - A **negative ΔΔG** indicates the mutation improves binding affinity.
 - A **negative ΔΔΔG** means the mutant prefers binding AVA over MID (i.e., AVA is favored).
 
