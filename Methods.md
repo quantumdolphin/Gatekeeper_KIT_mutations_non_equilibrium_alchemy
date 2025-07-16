@@ -1,4 +1,29 @@
 # Methods
+## 📑 Table of Contents
+
+1. [Rationale and System Overview](#rationale-and-system-overview)
+2. [Model Creation](#1-model-creation)
+   - [1.1 Homology Modeling](#11-homology-modeling)
+   - [1.2 Docking](#12-docking)
+   - [1.3 Creation of Double Mutants](#13-creation-of-double-mutants)
+3. [Molecular Dynamics (MD) Simulations](#2-molecular-dynamics-md-simulations)
+   - [2.1 System Setup](#21-system-setup)
+   - [2.2 Energy Minimization](#22-energy-minimization)
+   - [2.3 Equilibration](#23-equilibration)
+   - [2.4 Production Run](#24-production-run)
+   - [2.5 Post-Processing](#25-post-processing)
+4. [Free Energy Simulations](#3-free-energy-simulations)
+   - [3.1 Hybrid Topology Generation](#31-hybrid-topology-generation)
+   - [3.2 Minimization and Equilibration](#32-minimization-and-equilibration)
+   - [3.3 Non-Equilibrium TI](#33-non-equilibrium-fast-thermodynamic-integration-ti)
+   - [3.4 Free Energy Analysis](#34-free-energy-analysis)
+5. [Experimental Assays](#4-experimental-assays)
+   - [4.1 BaF3 Cell Assay (IC₅₀)](#41-baf3-cell-assay-ic₅₀)
+6. [Experimental & Computational ΔG Calculations](#5-experimental--computational-δg-calculations)
+   - [5.1 ΔG from IC₅₀](#51-δg-from-ic₅₀)
+   - [5.2 ΔΔG and ΔΔΔG Definitions](#52-δδg-and-δδδg-definitions)
+7. [References](#references)
+
 
 ## Rationale and System Overview
 
