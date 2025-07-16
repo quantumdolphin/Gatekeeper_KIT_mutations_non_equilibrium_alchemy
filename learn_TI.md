@@ -21,3 +21,23 @@ Covers TI with PMX and GROMACS in ligand–protein systems.
 ### 2. **Introduction to free energy calculations with PMX** (PRACE 2021)  
 Fundamentals of TI, λ-windows, sampling, and PMX usage.  
 🔗 https://www.youtube.com/watch?v=XE-xOhFRJn4 :contentReference[oaicite:4]{index=4}
+
+---
+
+
+## 📚 Written Tutorials and Courses
+
+### 1. **PMX Official Tutorial**
+Step-by-step walkthrough for hybrid topology generation, TI setup, and post-processing  
+🔗 https://pmx.mpibpc.mpg.de/tutorials.html
+
+### 2. **GROMACS Free Energy Workshop Materials**
+Includes example input files, TI theory, and scripts  
+🔗 https://www.mdtutorials.com/gmx/free_energy/index.html
+
+### 3. **TIES Protocol for Ensemble-Based TI**
+Official GitHub for the TIES toolkit  
+🔗 https://github.com/UCL-CCS/TIES20
+
+### 4. **Amber Tutorials – Thermodynamic Integration**
+🔗 https://ambermd.org/tutorials/advanced/tutorial9/
