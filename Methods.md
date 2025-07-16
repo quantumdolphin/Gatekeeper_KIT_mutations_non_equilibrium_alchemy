@@ -167,5 +167,33 @@ These calculations allow us to quantify how mutations at the gatekeeper residue 
 
 ## References
 
-(Include links to software, tools, and any supporting publications.)
+## References
+
+1. Schrödinger Glide: Protein–ligand docking software.  
+   https://www.schrodinger.com/glide
+
+2. GROMACS: Molecular dynamics simulation package.  
+   https://www.gromacs.org/
+
+3. PMX: Toolkit for free energy calculations using alchemical mutations.  
+   https://github.com/deGrootLab/pmx
+
+4. UCSF ChimeraX: Advanced molecular visualization and analysis.  
+   https://www.cgl.ucsf.edu/chimerax/
+
+5. Bennett CH. Efficient estimation of free energy differences from Monte Carlo data. *J. Comput. Phys.* **22**, 245–268 (1976).  
+   https://doi.org/10.1016/0021-9991(76)90078-4
+
+6. Jarzynski C. Nonequilibrium Equality for Free Energy Differences. *Phys. Rev. Lett.* **78**, 2690–2693 (1997).  
+   https://doi.org/10.1103/PhysRevLett.78.2690
+
+7. Crooks GE. Entropy production fluctuation theorem and the nonequilibrium work relation for free energy differences. *Phys. Rev. E* **60**, 2721–2726 (1999).  
+   https://doi.org/10.1103/PhysRevE.60.2721
+
+8. Hess B. P-LINCS: A parallel linear constraint solver for molecular simulation. *J. Chem. Theory Comput.* **4**, 116–122 (2008).  
+   https://doi.org/10.1021/ct700200b
+
+9. Darden T, York D, Pedersen L. Particle mesh Ewald: An N·log(N) method for Ewald sums in large systems. *J. Chem. Phys.* **98**, 10089–10092 (1993).  
+   https://doi.org/10.1063/1.464397
+
 
