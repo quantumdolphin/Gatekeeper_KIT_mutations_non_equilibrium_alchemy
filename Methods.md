@@ -238,3 +238,6 @@ These calculations allow us to quantify how mutations at the gatekeeper residue 
 4. **Michel, J., Verdonk, M. L., & Essex, J. W. (2007).** *Protein–Ligand Complexes: Computation of the Relative Free Energy of Different Scaffolds and Binding Modes.*  
    *Journal of Chemical Theory and Computation, 3*(5), 1645–1655.  
    🔗 https://doi.org/10.1021/ct700081t
+
+5.**Winger, B. A., et al**. ATP-Competitive Inhibitors Midostaurin and Avapritinib Have Distinct Resistance Profiles in Exon 17–Mutant KIT. Cancer Research 79(16), 4283–4292.
+https://doi.org/10.1158/0008-5472.CAN-18-3139
